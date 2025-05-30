@@ -28,3 +28,4 @@ Sube una imagen vía `/validar` (POST, `multipart/form-data`) con el campo `file
 Si la cara es reconocida: `{"status": "OK", "persona_id": "..."}`  
 Si no: `{"status": "NO_RECONOCIDO"}`
 "# facial-login" 
+# facial-login
